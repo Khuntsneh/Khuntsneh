@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [sneh khunt]!
+# 👋 Hi, I'm sneh khunt
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger;Problem+Solver" alt="Typing SVG" />
@@ -85,7 +85,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/sneh-khunt-660040414?trk=contact-info" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
